@@ -1,0 +1,7 @@
+{
+  "name": "AI Multi-Hub",
+  "description": "Hub unificado de IAs gratuitas com rotação automática em caso de limite de cota, suporte a texto, código, planilhas e imagens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
